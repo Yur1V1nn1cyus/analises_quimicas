@@ -1,0 +1,19 @@
+{
+    "calibration_curve": [
+      { "sample": "A1", "concentration_mg_L": 0.0, "absorbance": 0.000 },
+      { "sample": "A2", "concentration_mg_L": 0.5, "absorbance": 0.056 },
+      { "sample": "A3", "concentration_mg_L": 1.0, "absorbance": 0.112 },
+      { "sample": "A4", "concentration_mg_L": 1.5, "absorbance": 0.168 },
+      { "sample": "A5", "concentration_mg_L": 2.0, "absorbance": 0.225 },
+      { "sample": "A6", "concentration_mg_L": 2.5, "absorbance": 0.282 },
+      { "sample": "A7", "concentration_mg_L": 3.0, "absorbance": 0.338 },
+      { "sample": "A8", "concentration_mg_L": 3.5, "absorbance": 0.395 },
+      { "sample": "A9", "concentration_mg_L": 4.0, "absorbance": 0.451 },
+      { "sample": "A10", "concentration_mg_L": 4.5, "absorbance": 0.508 },
+      { "sample": "A11", "concentration_mg_L": 5.0, "absorbance": 0.565 },
+      { "sample": "A12", "concentration_mg_L": 5.5, "absorbance": 0.622 },
+      { "sample": "A13", "concentration_mg_L": 6.0, "absorbance": 0.678 },
+      { "sample": "A14", "concentration_mg_L": 6.5, "absorbance": 0.735 }
+    ]
+  }
+  
